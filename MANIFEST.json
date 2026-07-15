@@ -1,0 +1,86 @@
+﻿[
+    {
+        "path":  "assets/images/cover.png",
+        "category":  "assets/images",
+        "size_bytes":  216867,
+        "sha256":  "6b91ee6f41fe2c83121edd01623aa67c641b7e2fcec8fdd85bb451196501ef62",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/4D/wKgZPGoZQ9KAep4iAANPIyXALiU958.png"
+    },
+    {
+        "path":  "hardware/bom/SSZ029D-S01D-D2_BOMLIST20260414.xlsx",
+        "category":  "hardware/bom",
+        "size_bytes":  19519,
+        "sha256":  "5d472e7d6fded46dd7870ca07aa2a546f47972f543d9a3152469974841a11813",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B1/wKgZO2odJd-AGP5fAABMP4RCNA022.xlsx"
+    },
+    {
+        "path":  "hardware/bom/SSZ029D-S01D-D2_MAINBOARD_BOMLIST20260414.xlsx",
+        "category":  "hardware/bom",
+        "size_bytes":  17886,
+        "sha256":  "9b44bfe387daebe2665d271002627cdb338da8e2a49c66017ea0d1197c7abd9a",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/AF/wKgZO2odIL-AJ7gEAABF3qPrEpA64.xlsx"
+    },
+    {
+        "path":  "hardware/pcb/Comake PI D2 V2.0硬件说明_20260409.docx",
+        "category":  "hardware/pcb",
+        "size_bytes":  5420332,
+        "sha256":  "a4e3951c3b16f90603e46ad424fd9985bfa0139bbdd2646467b781b1aafda0d8",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B1/wKgZO2odJk-AIvCvAFK1LBht4YY50.docx"
+    },
+    {
+        "path":  "hardware/pcb/WQ7036平台硬件IO资源分配表.xlsx",
+        "category":  "hardware/pcb",
+        "size_bytes":  14819,
+        "sha256":  "c7bd222f35ca7a5bb4898f3994a4e8987ed73406086ef362e2194592ad2ea3bc",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B2/wKgZPGodJk2AG294AAA546QPoM808.xlsx"
+    },
+    {
+        "path":  "hardware/pcb/Comake-Pi-D2-V1.0_BGA8_9.5_Demo_20251215.zip",
+        "category":  "hardware/pcb",
+        "size_bytes":  7206544,
+        "sha256":  "1f7b346ccc79c7f00cb1465ff66ec00082a6986f3bdcd61a368a24940c080211",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B1/wKgZO2odJi-AdqHaAG32kESqB0g895.zip"
+    },
+    {
+        "path":  "hardware/pcb/Comake-Pi-D2-V2.0_BGA8_9.5_Demo_20260409.zip",
+        "category":  "hardware/pcb",
+        "size_bytes":  24898936,
+        "sha256":  "79c74c173e874e31d4af8f7472636be51be2b0c755aaceca5e376deaf0bb4cd4",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B1/wKgZO2odJk2ACDVTAXvteOdsXDM911.zip"
+    },
+    {
+        "path":  "hardware/pcb/Comake-Pi-D2-V2.0_核心板.zip",
+        "category":  "hardware/pcb",
+        "size_bytes":  2832942,
+        "sha256":  "e34aff1626ed6ba62d214bee85b663de5fe9d6720d1b98fda4f0a063eeb96a9a",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B1/wKgZPGodJa6AHN7IACs6LhdU1Oc177.zip"
+    },
+    {
+        "path":  "hardware/pcb/Comake-Pi-D2-V2.0_载板.zip",
+        "category":  "hardware/pcb",
+        "size_bytes":  1669385,
+        "sha256":  "182d99cc0688a92c238354b99edf7e5fa2234d544ff51720fa0ad93adcc27d95",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B1/wKgZPGodJceAVHE5ABl5CVdgg6U015.zip"
+    },
+    {
+        "path":  "hardware/pcb/SSC309QL_BGA8_9.5_LPDDR4x For AI Glass_HW Checklist V1.2 .xlsx",
+        "category":  "hardware/pcb",
+        "size_bytes":  103865,
+        "sha256":  "99d8fbb19a1c153e77d2cc82693e123649045de1880dc927e46b85545edcc72d",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B2/wKgZPGodJk2APflwAAGVuceutn873.xlsx"
+    },
+    {
+        "path":  "docs/SSC309QL_HW_USER_GUIDE_20251225.pdf",
+        "category":  "docs",
+        "size_bytes":  1480266,
+        "sha256":  "7d1ba2d7b8469c0e2f8e4193970b3feeaa1590d8369747cdf636ff9a27b1a0a6",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/B0/wKgZPGodIOeAUdWEABaWSvc-sLI835.pdf"
+    },
+    {
+        "path":  "docs/资料阅读指南V1.1.pdf",
+        "category":  "docs",
+        "size_bytes":  813113,
+        "sha256":  "3426548c38f639a257a13668326fc753ad94a87c326c96dd0568d96b264de156",
+        "source_url":  "https://file1.huaqiu.com/web3/M00/62/AF/wKgZO2odIMuAPLqXAAxoOf58gb8617.pdf"
+    }
+]
